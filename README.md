@@ -21,6 +21,13 @@ This project explores whether transformer-based language models can still be tra
 
 eateggsAI-30M was built as an experimental low-VRAM AI challenge to push the limits of a GTX 1060 4GB GPU while still achieving stable transformer training and meaningful text generation.
 
+# Whitepaper
+
+Experimental research whitepaper:
+
+- eateggsAI-30M_WhitePaper.pdf
+
+  
 # Tested Environment
 
 | Component | Version |

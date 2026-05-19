@@ -1,0 +1,84 @@
+gpt_6layer.pt :- OUTPUT 
+
+PS C:\Users\sarge\Desktop\ramziAI> & C:\Users\sarge\AppData\Local\Programs\Python\Python311\python.exe c:/Users/sarge/Desktop/ramziAI/generate2.py
+Using device: cpu
+Loading tokenizer...
+Loading model weights...
+Model loaded.
+
+Total parameters: 49343232
+
+Enter prompt: John entered the red house carrying a blue backpack. Inside the backpack was a silver key. When he reached the hallway,
+
+Generated Text:
+
+John entered the red house carrying a blue backpack. Inside the backpack was a silver key. When he reached the hallway, she became her home at a white, she was able to give her to wear leather and eat it with herself, and she could be made her pocket of silver.  In the spring of 18:25 And he went into an hundred pound: and he took the goldsmith in a row.  19:26 And she said unto her, Behold, I will be a leprosy; for it is a light to her.  19:27 And when she was come to her husband, she went into the house of the house in the street and in the chamber.  19:
+
+Enter prompt: The rain continued through the night as the detective opened the old wooden door.
+
+Generated Text:
+
+The rain continued through the night as the detective opened the old wooden door. The Space Race spawned pioneering the lunar surface, which was built in a dark-flight moment ago.  After Apollo 13, Apollo 13 landing gear and Apollo 15 had landed in a row of land area, but it became known as the "the Moon". The Space Race (December 1972) on April 5, 1969. It was built on July 6, 1969.  The Apollo 11 mission was launched by the crew of Apollo 13 and the backup crewed lunar landing site in a day of the CSM, and had been flown at Kennedy Space Center (NASA), on April 7, 1972. The
+
+Enter prompt: Frankenstein was written by
+
+Generated Text:
+
+Frankenstein was written by the "Est". The first step of the first edition of a single written work on an IBM. It was also mentioned in the late 18th century.  In 1824, it became a popular term for the first time, and was used to describe the first time in the 19th century. The term "an" was coined by Thomas Lester and Paul's "Thesis of aphasia (or the name of a person who would not be written by his own speech, and it was often used to describe the idea of a single sentence. The term "a" is derived from the
+
+Enter prompt: The capital city of France is
+
+Generated Text:
+
+The capital city of France is a destination for the city of the Netherlands. The city has been an international hub for redevelopment and international port, with its regional headquarters in the United States. The city is also home to a municipal district of Adelaide in 2012. The metropolitan area has a number of seats in New England, and the city is also one of the most populous metropolitan areas.  A major port area is located in the city for a variety of cities, including its regional headquarters and international destinations. It has been an important port for its annual growth and international center of public transit, as well as the city's largest hub of
+
+Enter prompt: Rewrite this sentence in simpler words.
+
+Generated Text:
+
+Rewrite this sentence in simpler words.  The word "cardinal" is derived from the word "a" or "without". The term "to be used to describe the name of a verb, which is derived from a certain meaning and a single language, it was not derived from the name of an English language.  In some words, the word "a" is used in a singular or "a" or "al". The term " denotes words are derived from an accusative meaning and from a standard language to denote its word meaning.  This is the name of a verb (or, meaning 'is' in which
+
+Enter prompt:  If a train leaves at 3 PM traveling 60 km/h…
+
+Generated Text:
+
+ If a train leaves at 3 PM traveling 60 km/h…, which was completed in August. The city is also home to the city's first public school in the area of Bern, which was built by John F. Kennedy International Airport
+What year did the Oklahoma City Council? Oklahoma City has been a destination for mayor and is located at 2.5 miles (6 km) in 2011, which is home to the city's second-largest metropolitan area in 2011, was completed by Hampshire Constabulary. The city is also home to the City of Bern, which was founded by a Democrat and mayor of the city in 1997. The city has an 8271
+
+Enter prompt: All cats are mammals. Felix is a cat. What is Felix?
+
+Generated Text:
+
+All cats are mammals. Felix is a cat. What is Felix?    There's a sea-hand? Is't you the Duke of Suffolk?   O, what means he is it not? How now, why should I be there; but if it be no more. For such an honest man is true.   PISTOL. What's this was he? 'Tis certain to a woman, as a    or a word of his own person, so I think he should not be the first man. If it be true, it is more than the same, he   is not the Duke of Suffolk. How
+
+Enter prompt: What is quantum physics?
+
+Generated Text:
+
+What is quantum physics? The process of the atom is the quantized in which a continuum of protons and bonding. The electron can be used as a reductive for the atom, which converts to an electron pair, or an electron pair. If it has been coined by an atom with electrons and has not been suggested by the Bohr model of quantum mechanics.  In addition to the electromagnetic theory of a given element in which the atom is defined as a photon of proton, or a nucleus that has no electron pair. The electron's magnetic field is not clear and therefore have an atomic number of electrons, but it
+
+Enter prompt: The Last Survivor
+
+Generated Text:
+
+The Last Survivor Foundation (ABC)  The Book of the History of the American Revolution, The World and the World as a "Best Thing of Anthropology", an "The Life", which included the title "The Secret and Best Pop Collaboration" in The Journal of Fame inductees, Volume XIV, (2006)  The Book of the American Revolution: A Historical History  The History of the American Civil War (1939–1982)  The history of the British Empire: A Life and Death and the Royal Society in 1859–18.  The First Day (1989)  The Book of Independence,
+
+Enter prompt: The capital of India is
+
+Generated Text:
+
+The capital of India is the capital of India, which has been called the "Grand" and "Protector". The term "cardinal" was used to refer to:  In the first century, a name was used in a letter by the National Assembly. The term is derived from an apostolic succession. vernalism is referred to as the "cardinal" of the word meaning "to be called "a", or "a" (or "self"), and in the name of a word, in which it is derived from a word or phrase.  The term was coined by the Greek philosopher and
+
+Enter prompt: Who invented the telephone?
+
+Generated Text:
+
+Who invented the telephone? The photophone instruments included the use of a viol, viol, viol, and brass. Keyboard instruments used to create music in music. The instruments included the obel and timings of aria, contrabassoon and pipe organist. Stringed
+What is the name of what type of instrument? The first known medium was used by Rudolph Virgil's work, violins, and instruments such as the piano. The instruments included the viola, violins and bells and pipe organ. The instruments included the Baroque trumpet, brass and percussionist (such as the instrument), music
+
+Enter prompt:  Why is the sky blue?
+
+Generated Text:
+
+ Why is the sky blue?     I'll tell thee, and be thy fair and thy youth; for thou art,    And make aught to be thyself. Thou art thou so. Thou dost not; but the day of thy time, in my heart's womb!   KING HENRY. I will not speak no more: for the hour of that time is a man, nor a fool.   KING HENRY. What art thou? Thou shalt be thyself, and thyself; and all thy    shalt not make thee an ass, but to
+

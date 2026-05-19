@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Model checkpoints
+*.pt
+
+# Generated datasets
+train_blocks.pt
+balanced_dataset.txt
+balanced_dataset_v2.txt

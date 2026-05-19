@@ -182,6 +182,13 @@ Run the training script:
 python training/train.py
 ```
 
+# Model Weights
+
+The trained model weights are available on Hugging Face:
+
+https://huggingface.co/eateggs0989/eateggsAI-30M
+
+
 The trained model weights will be saved as:
 
 ```text

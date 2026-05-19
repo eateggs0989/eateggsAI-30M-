@@ -131,6 +131,72 @@ Loss Optimization
 Model Saving
 
 ---
+# Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/eateggsAI-30M.git
+cd eateggsAI-30M
+```
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+# Dataset Preparation
+
+Download datasets:
+
+```bash
+python dataset/download_datasets.py
+```
+
+Clean dataset:
+
+```bash
+python dataCleaner.py
+```
+
+Prepare token blocks:
+
+```bash
+python dataset/prepare_blocks.py
+```
+# How To Train
+
+Run the training script:
+
+```bash
+python training/train.py
+```
+
+The trained model weights will be saved as:
+
+```text
+gpt_6layer.pt
+```
+
+---
+
+# How To Run Inference
+
+Run the inference script:
+
+```bash
+python inference/generate.py
+```
+
+Example prompt:
+
+```text
+Why is the sky blue?
+```
+
 
 # Purpose Of This Project
 

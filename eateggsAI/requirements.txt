@@ -1,0 +1,6 @@
+torch
+transformers
+datasets
+huggingface-hub
+tokenizers
+accelerate
